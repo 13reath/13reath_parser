@@ -1,0 +1,28 @@
+{
+    "name": "funpay-parser-en",
+    "version": "1.0.0",
+    "description": "FunPay profile parser (English version) with Tor support by 13reath",
+    "main": "parser_en.js",
+    "scripts": {
+        "start": "node parser_en.js",
+        "parse": "node parser_en.js"
+    },
+    "keywords": [
+        "funpay",
+        "parser",
+        "scraper",
+        "tor",
+        "dota2",
+        "english"
+    ],
+    "author": "13reath",
+    "license": "MIT",
+    "dependencies": {
+        "puppeteer": "^21.6.0",
+        "axios": "^1.6.2",
+        "socks-proxy-agent": "^8.0.2"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    }
+}
