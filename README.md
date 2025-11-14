@@ -1,4 +1,4 @@
-# FunPay Parser (English Version) by 13reath
+# FunPay Parser for /en/ links
 
 Anonymous FunPay profile parser with Tor support. Extracts offer data in English.
 
