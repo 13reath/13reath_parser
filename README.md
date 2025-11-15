@@ -1,4 +1,4 @@
-# FunPay Parser (English Version) by 13reath
+# FunPay Parser for /en/ links
 
 Anonymous FunPay profile parser with Tor support. Extracts offer data in English.
 
@@ -66,7 +66,7 @@ cd funpay-parser
 2. **Run the parser:**
 
     ```bash
-    node parser_en.js
+    node parser.js
     ```
 
 3. **Follow the prompts:**
